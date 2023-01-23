@@ -2,7 +2,7 @@
 
 
 ```v
-junko@HP:~$
+junko@Ubuntu:~$
 ```
 
 
