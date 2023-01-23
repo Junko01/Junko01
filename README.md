@@ -1,5 +1,10 @@
 # Welcome to My Profile.
 
+![progreSh](https://user-images.githubusercontent.com/123421677/214167332-3e9fd46c-8b36-48a0-9df7-0f7aeffeae30.gif)
+![progreSh](https://user-images.githubusercontent.com/123421677/214167332-3e9fd46c-8b36-48a0-9df7-0f7aeffeae30.gif)
+![progreSh](https://user-images.githubusercontent.com/123421677/214167332-3e9fd46c-8b36-48a0-9df7-0f7aeffeae30.gif)
+![progreSh](https://user-images.githubusercontent.com/123421677/214167332-3e9fd46c-8b36-48a0-9df7-0f7aeffeae30.gif)
+![progreSh](https://user-images.githubusercontent.com/123421677/214167332-3e9fd46c-8b36-48a0-9df7-0f7aeffeae30.gif)
 ```v
 junko@HP:~$
 ```
